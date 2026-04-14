@@ -1,4 +1,6 @@
-gradio
+streamlit
 pandas
-scikit-learn
+numpy
 joblib
+catboost
+scikit-learn
